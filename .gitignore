@@ -1,0 +1,11 @@
+# Secrets and local state
+.env
+seen_jobs.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
